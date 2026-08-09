@@ -1,4 +1,5 @@
 ### Q1: Find the total spending on players for each team
+
 **Hər komanda üçün oyunçulara xərclənən ümumi məbləği tapın:**
 
 
@@ -9,4 +10,4 @@ GROUP BY Team
 ORDER BY 'Total Spending' DESC
 ```
 
-<img width="502" height="574" alt="Query Result" src="https://github.com/user-attachments/assets/f5c456ca-87f0-4782-87df-c114a1c58aed" />
+<img width="402" height="400" alt="Query Result" src="https://github.com/user-attachments/assets/f5c456ca-87f0-4782-87df-c114a1c58aed" />
