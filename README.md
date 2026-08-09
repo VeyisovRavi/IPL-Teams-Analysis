@@ -1,4 +1,4 @@
-﻿--Q1 Find the total spending on players for each team:
+﻿--Q1 Find the total spending on players for each team:/n
 --Q1: Hər komanda üçün oyunçulara xərclənən ümumi məbləği tapın:
  
 ```sql
